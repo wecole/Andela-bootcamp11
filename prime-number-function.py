@@ -16,4 +16,4 @@ def primeNumbers(num): #function declaration
     return x #return list of prime numbers
 
 
-print primeNumbers(80)
+print primeNumbers(50)
