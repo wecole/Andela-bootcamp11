@@ -1,7 +1,7 @@
 
 def primeNumbers(num): #function declaration
     
-    x = [2] 
+    x = [2] #initial list having first number thats prime,2
     begin = 3 
     while True:
         for i in range(3, int(begin**0.5) + 1):  
